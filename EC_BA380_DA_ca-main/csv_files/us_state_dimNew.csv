@@ -1,0 +1,51 @@
+State Name,ISO,ANSI,Region
+Alaska,US-AK,AK,
+Alabama,US-AL,AL,Southeast
+Arkansas,US-AR,AR,South Central
+Arizona,US-AZ,AZ,West
+California,US-CA,CA,California
+Colorado,US-CO,CO,West
+Connecticut,US-CT,CT,Northeast
+Delaware,US-DE,DE,Northeast
+Florida,US-FL,FL,Southeast
+Georgia,US-GA,GA,Southeast
+Hawaii,US-HI,HI,
+Iowa,US-IA,IA,Plains
+Idaho,US-ID,ID,West
+Illinois,US-IL,IL,Great Lakes
+Indiana,US-IN,IN,Great Lakes
+Kansas,US-KS,KS,Plains
+Kentucky,US-KY,KY,Midsouth
+Louisiana,US-LA,LA,South Central
+Massachusetts,US-MA,MA,Northeast
+Maryland,US-MD,MD,Midsouth
+Maine,US-ME,ME,Northeast
+Michigan,US-MI,MI,Great Lakes
+Minnesota,US-MN,MN,Plains
+Missouri,US-MO,MO,Plains
+Mississippi,US-MS,MS,Southeast
+Montana,US-MT,MT,West
+North Carolina,US-NC,NC,Midsouth
+North Dakota,US-ND,ND,Plains
+Nebraska,US-NE,NE,Plains
+New Hampshire,US-NH,NH,Northeast
+New Jersey,US-NJ,NJ,Northeast
+New Mexico,US-NM,NM,West
+Nevada,US-NV,NV,West
+New York,US-NY,NY,Northeast
+Ohio,US-OH,OH,Great Lakes
+Oklahoma,US-OK,OK,South Central
+Oregon,US-OR,OR,West
+Pennsylvania,US-PA,PA,Northeast
+Rhode Island,US-RI,RI,Northeast
+South Carolina,US-SC,SC,Midsouth
+South Dakota,US-SD,SD,Plains
+Tennessee,US-TN,TN,Midsouth
+Texas,US-TX,TX,South Central
+Utah,US-UT,UT,West
+Virginia,US-VA,VA,Midsouth
+Vermont,US-VT,VT,Northeast
+Washington,US-WA,WA,West
+Wisconsin,US-WI,WI,Great Lakes
+West Virginia,US-WV,WV,Northeast
+Wyoming,US-WY,WY,West

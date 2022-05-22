@@ -1,0 +1,51 @@
+﻿State Name,ISO,ANSI,ANSI_2,GPO,USCG,USPS,AP
+Alabama,US-AL,AL,1,Ala.,AL,AL,Ala.
+Alaska,US-AK,AK,2,Alaska,AK,AK,Alaska
+Arizona,US-AZ,AZ,4,Ariz.,AZ,AZ,Ariz.
+Arkansas,US-AR,AR,5,Ark.,AR,AR,Ark.
+California,US-CA,CA,6,Calif.,CF,CA,Calif.
+Colorado,US-CO,CO,8,Colo.,CL,CO,Colo.
+Connecticut,US-CT,CT,9,Conn.,CT,CT,Conn.
+Delaware,US-DE,DE,10,Del.,DL,DE,Del.
+Florida,US-FL,FL,12,Fla.,FL,FL,Fla.
+Georgia,US-GA,GA,13,Ga.,GA,GA,Ga.
+Hawaii,US-HI,HI,15,Hawaii,HA,HI,Hawaii
+Idaho,US-ID,ID,16,Idaho,ID,ID,Idaho
+Illinois,US-IL,IL,17,Ill.,IL,IL,Ill.
+Indiana,US-IN,IN,18,Ind.,IN,IN,Ind.
+Iowa,US-IA,IA,19,Iowa,IA,IA,Iowa
+Kansas,US-KS,KS,20,Kans.,KA,KS,Kan.
+Kentucky,US-KY,KY,21,Ky.,KY,KY,Ky.
+Louisiana,US-LA,LA,22,La.,LA,LA,La.
+Maine,US-ME,ME,23,Maine,ME,ME,Maine
+Maryland,US-MD,MD,24,Md.,MD,MD,Md.
+Massachusetts,US-MA,MA,25,Mass.,MS,MA,Mass.
+Michigan,US-MI,MI,26,Mich.,MC,MI,Mich.
+Minnesota,US-MN,MN,27,Minn.,MN,MN,Minn.
+Mississippi,US-MS,MS,28,Miss.,MI,MS,Miss.
+Missouri,US-MO,MO,29,Mo.,MO,MO,Mo.
+Montana,US-MT,MT,30,Mont.,MT,MT,Mont.
+Nebraska,US-NE,NE,31,Nebr.,NB,NE,Neb.
+Nevada,US-NV,NV,32,Nev.,NV,NV,Nev.
+New Hampshire,US-NH,NH,33,N.H.,NH,NH,N.H.
+New Jersey,US-NJ,NJ,34,N.J.,NJ,NJ,N.J.
+New Mexico,US-NM,NM,35,N. Mex.,NM,NM,N.M.
+New York,US-NY,NY,36,N.Y.,NY,NY,N.Y.
+North Carolina,US-NC,NC,37,N.C.,NC,NC,N.C.
+North Dakota,US-ND,ND,38,N. Dak.,ND,ND,N.D.
+Ohio,US-OH,OH,39,Ohio,OH,OH,Ohio
+Oklahoma,US-OK,OK,40,Okla.,OK,OK,Okla.
+Oregon,US-OR,OR,41,Oreg.,OR,OR,Ore.
+Pennsylvania,US-PA,PA,42,Pa.,PA,PA,Pa.
+Rhode Island,US-RI,RI,44,R.I.,RI,RI,R.I.
+South Carolina,US-SC,SC,45,S.C.,SC,SC,S.C.
+South Dakota,US-SD,SD,46,S. Dak.,SD,SD,S.D.
+Tennessee,US-TN,TN,47,Tenn.,TN,TN,Tenn.
+Texas,US-TX,TX,48,Tex.,TX,TX,Texas
+Utah,US-UT,UT,49,Utah,UT,UT,Utah
+Vermont,US-VT,VT,50,Vt.,VT,VT,Vt.
+Virginia,US-VA,VA,51,Va.,VA,VA,Va.
+Washington,US-WA,WA,53,Wash.,WN,WA,Wash.
+West Virginia,US-WV,WV,54,W. Va.,WV,WV,W.Va.
+Wisconsin,US-WI,WI,55,Wis.,WS,WI,Wis.
+Wyoming,US-WY,WY,56,Wyo.,WY,WY,Wyo.
